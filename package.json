@@ -1,0 +1,34 @@
+{
+  "name": "Chat_Application",
+  "version": "0.0.1",
+  "description": "Chat application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnFiske"
+  },
+  "keywords": [
+    "portfolio",
+    "angular",
+    "website"
+  ],
+  "author": "Shawn Fiske",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnFiske"
+  },
+  "homepage": "http://www.shawnfiske.com",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.4.4",
+    "angular-animate": "^1.4.4",
+    "angular-route": "^1.4.7",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0"
+  }
+}
